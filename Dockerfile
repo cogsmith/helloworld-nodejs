@@ -1,7 +1,8 @@
 FROM node:15.8.0-alpine3.12
 ENV NODE_ENV=production
 WORKDIR /app
-COPY ["package.json", "package-lock.json*", "./"]
+COPY ["package.json","package-lock.json*","./"]
 RUN npm install --production
 COPY . .
-CMD [ "node", "app.js" ]
+ENTRYPOINT ["node","app.js"]
+CMD ["80","0.0.0.0"]
