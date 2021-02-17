@@ -1,5 +1,5 @@
 {
-  "name": "helloworld-nodejs",
+  "name": "@cogsmith/helloworld-nodejs",
   "version": "0.0.1",
   "description": "HELLO WORLD",
   "main": "app.js",
