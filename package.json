@@ -1,0 +1,9 @@
+{
+  "name": "helloworld-nodejs",
+  "version": "0.0.1",
+  "description": "HELLO WORLD",
+  "main": "app.js",
+  "keywords": [],
+  "author": "dac@cogsmith.com",
+  "license": "MIT"
+}
