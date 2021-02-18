@@ -4,7 +4,7 @@
 
 ---
 
-https://github.com/COGSMITH/helloworld-nodejs
+https://github.com/cogsmith/helloworld-nodejs
 
 https://hub.docker.com/r/cogsmith/helloworld-nodejs
 
