@@ -39,3 +39,11 @@ docker run -d --rm --name helloworld -p 0.0.0.0:80:80 cogsmith/helloworld-nodejs
 ~~~
 
 ---
+
+### Clean Up
+
+~~~
+docker stop hello ; docker stop hellolocal ; docker stop helloworld ; docker rm hello ; docker rm hellolocal ; docker rm helloworld ; docker rmi cogsmith/helloworld-nodejs
+~~~
+
+---
