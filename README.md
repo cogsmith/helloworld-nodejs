@@ -1,12 +1,17 @@
 # HELLO WORLD
 
-## Minimal NodeJS Example For Docker Testing
+:raised_hand_with_fingers_splayed: Minimal NodeJS Example :raised_hand_with_fingers_splayed:
+## Basic Script For Docker Testing
 
 ---
 
-https://github.com/cogsmith/helloworld-nodejs
+:octocat: https://github.com/cogsmith/helloworld-nodejs
 
-https://hub.docker.com/r/cogsmith/helloworld-nodejs
+🐳 https://hub.docker.com/r/cogsmith/helloworld-nodejs
+
+---
+
+<h1><code><a href='../../blob/master/app.js'>[VIEW APP SOURCE CODE]</a></code></h1>
 
 ---
 
