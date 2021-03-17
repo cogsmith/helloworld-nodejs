@@ -1,7 +1,5 @@
-# HELLO WORLD
-
-## :raised_hand_with_fingers_splayed: Minimal NodeJS Example :raised_hand_with_fingers_splayed:
-## Basic Script For Docker Testing
+# 🖐️ HELLOWORLD: Basic NodeJS Docker Example 🖐️
+## Minimal example script for testing NodeJS and Docker instances
 
 ---
 
@@ -11,7 +9,7 @@
 
 ---
 
-<h1><code><a href='../../blob/main/app.js'>[VIEW APP SOURCE CODE]</a></code></h1>
+<h1><code><a href='https://github.com/cogsmith/helloworld-nodejs/blob/main/app.js'>[VIEW APP SOURCE CODE]</a></code></h1>
 
 ---
 
