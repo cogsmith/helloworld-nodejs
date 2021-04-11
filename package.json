@@ -1,6 +1,6 @@
 {
   "name": "@cogsmith/helloworld-nodejs",
-  "version": "0.0.1",
+  "version": "0.0.2-dev",
   "description": "Minimal NodeJS Example For Docker Testing",
   "main": "app.js",
   "keywords": [],
